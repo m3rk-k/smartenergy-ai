@@ -3,4 +3,4 @@ numpy
 matplotlib
 plotly
 streamlit
-pytest
+pytest<9
