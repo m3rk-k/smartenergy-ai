@@ -24,6 +24,16 @@ A Python app that analyzes hourly electricity usage, forecasts the next days and
    pip install -r requirements.txt
    ```
 
+## Running tests
+
+From the project folder with the venv activated:
+
+```
+pytest -v
+```
+
+The tests also run on GitHub on every push and pull request.
+
 ## Usage
 
 ## Project structure
